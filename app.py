@@ -55,4 +55,5 @@ if youtube_url:
             </style>
             """, unsafe_allow_html=True)
     else:
-        st.error("Liên kết YouTube không hợp lệ. Vui lòng kiểm tra lại đường dẫn!")
+        st.error("Liên kết YouTube không hợp lệ. Vui lòng kiểm tra lại đường dẫn!") 
+        
